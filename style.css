@@ -196,7 +196,7 @@ body {
 }
 
 #iql5x {
-	background-image: url('/assets/qr-visualizer.png');
+	background-image: url('./assets/qr-visualizer.png');
 			background-size:contain;
 			background-position:center center;
 			background-attachment:scroll;
@@ -274,7 +274,7 @@ body {
 	}
 
 	#ij6aj {
-		background-image:url('/pattern-markers/pattern-icon-01.png');
+		background-image:url('./pattern-markers/pattern-icon-01.png');
 			background-size:contain;
 			background-position:center center;
 			background-attachment:scroll;
@@ -286,7 +286,7 @@ body {
 		}
 
 		#idnco {
-			background-image:url('/pattern-markers/pattern-icon-01.png');
+			background-image:url('./pattern-markers/pattern-icon-01.png');
 				background-size:contain;
 				background-position:center center;
 				background-attachment:scroll;
@@ -302,7 +302,7 @@ body {
 			}
 
 			#i5jtr {
-				background-image:url('/pattern-markers/pattern-icon-03.png');
+				background-image:url('./pattern-markers/pattern-icon-03.png');
 					background-size:contain;
 					background-position:center center;
 					background-attachment:scroll;
@@ -322,7 +322,7 @@ body {
 				}
 
 				#ii4zr {
-					background-image:url('/pattern-markers/pattern-icon-02.png');
+					background-image:url('./pattern-markers/pattern-icon-02.png');
 						background-size:contain;
 						background-position:center center;
 						background-attachment:scroll;
@@ -390,7 +390,7 @@ body {
 						}
 
 						#ik0ga {
-							background-image:url('/pattern-markers/pattern-icon-05.png');
+							background-image:url('./pattern-markers/pattern-icon-05.png');
 								background-size:contain;
 								background-position:center center;
 								background-attachment:scroll;
