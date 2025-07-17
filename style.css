@@ -196,7 +196,7 @@ body {
 }
 
 #iql5x {
-	background-image: url('./assets/qr-visualizer.png');
+	background-image: url('./assets/frame.png');
 			background-size:contain;
 			background-position:center center;
 			background-attachment:scroll;
@@ -356,7 +356,7 @@ body {
 					}
 
 					#iuocg {
-						background-image:url('/pattern-markers/pattern-icon-06.png');
+						background-image:url('./pattern-markers/pattern-icon-06.png');
 							background-size:contain;
 							background-position:center center;
 							background-attachment:scroll;
